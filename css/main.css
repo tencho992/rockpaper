@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    
+}
+body {
+    background-color:rgb(245, 244, 240);
+    color: black;
+    font-family: 'Schoolbell', cursive;;
+}
+body {
+    /* border: 4PX RED SOLID; */
+    width: 40%;
+    text-align: center;
+    margin: 10% 5% 5% 31%;
+    
+}
+.scoreboard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: red;
+}
+img {
+    width: 60%;    
+}
